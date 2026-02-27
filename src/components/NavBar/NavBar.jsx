@@ -42,7 +42,7 @@ const NavBar = () => {
           {open ? 
           <X className='md:hidden'onClick={() =>setOpen(!open)}></X> : 
           <Menu className='md:hidden ' onClick={() =>setOpen(!open)}></Menu>}
-            <ul className={`md:hidden absolute duration-1000 ${open?'top-40 left-8' : '-top-40 left-8'} bg-amber-100 p-4`}>
+            <ul className={`md:hidden absolute duration-1000 ${open?'top-28.5 left-8' : '-top-40 left-8'} bg-amber-100 p-4`}>
               {
                 links
               }

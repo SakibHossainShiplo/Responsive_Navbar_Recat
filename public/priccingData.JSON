@@ -1,0 +1,59 @@
+[
+  {
+    "id": "starter",
+    "name": "Starter",
+    "price": 1200,
+    "duration": "1 Month",
+    "description": "Great for beginners starting their fitness journey.",
+    "popular": false,
+    "features": [
+      "Gym access (6 AM - 10 PM)",
+      "Cardio equipment access",
+      "Basic weight training access",
+      "Locker facility",
+      "Free WiFi",
+      "1 Fitness consultation",
+      "Group workout session (1 per month)",
+      "Body composition check"
+    ]
+  },
+  {
+    "id": "pro",
+    "name": "Pro",
+    "price": 3000,
+    "duration": "3 Months",
+    "description": "Best value for regular training and consistent progress.",
+    "popular": true,
+    "features": [
+      "Full gym access",
+      "Cardio + Weight training",
+      "Locker facility",
+      "Free WiFi",
+      "Basic diet chart",
+      "3 Fitness consultations",
+      "Group classes access",
+      "Steam room access",
+      "Monthly body measurement tracking"
+    ]
+  },
+  {
+    "id": "elite",
+    "name": "Elite",
+    "price": 9000,
+    "duration": "12 Months",
+    "description": "Complete fitness transformation package with premium facilities.",
+    "popular": false,
+    "features": [
+      "24/7 gym access",
+      "Dedicated personal trainer",
+      "Customized workout plan",
+      "Personalized diet plan",
+      "Supplement guidance",
+      "Locker + Shower facility",
+      "Unlimited group classes",
+      "Monthly fitness assessment",
+      "Progress tracking app access",
+      "Priority support"
+    ]
+  }
+]
